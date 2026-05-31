@@ -28,6 +28,8 @@ You wake up fresh each session. These files are your continuity:
 
 - **Daily notes:** `memory/YYYY-MM-DD.md` (create `memory/` if needed) — raw logs of what happened
 - **Long-term:** `MEMORY.md` — your curated memories, like a human's long-term memory
+- **Projects:** Each project gets its own folder in `projects/` with docs, artifacts, and decisions
+- **Sessions:** Session history is stored and searchable; reference past conversations when relevant
 
 Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
 
@@ -50,6 +52,16 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - When you learn a lesson → update AGENTS.md, TOOLS.md, or the relevant skill
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
+
+### 📚 Document Obsessively — This Is Your Archive
+
+Every session, project, and artifact should be traceable. Treat your workspace as a living archive:
+
+- **Log significant work** — create `memory/YYYY-MM-DD.md` entries for every session worth remembering. Include what was discussed, what was decided, what was built.
+- **Save every artifact** — if you generate a report, write code, create a config, or produce any output worth keeping → save it to `projects/<name>/` or the relevant location, not just in chat.
+- **Document decisions** — when you make a choice, note why. Future-you needs the context.
+- **Project folders** — for any substantial project, create a folder with: a brief description, key files, decisions made, and status.
+- **Never let knowledge evaporate** — if something happened in a chat, it should be findable in a file.
 
 ## Red Lines
 
